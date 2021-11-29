@@ -28,7 +28,7 @@ function App() {
       <NavBar />
       <Encabezado />
      <Switch>
-          <Route exact path="/">
+          <Route  exact path="/">
             <Inicio />
           </Route>
           <Route path="/lugares">

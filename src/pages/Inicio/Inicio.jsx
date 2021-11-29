@@ -181,7 +181,7 @@ const Inicio = () => {
             </div>
             <div class="card-footer  text-center">
               <small class="text-muted">
-              <NavLink to="/lugares">
+              <NavLink to="/Reserva-viaje">
                      <button className="btn btn-primary">Realizar reserva YA!!!!</button> 
                     </NavLink>
               </small>
@@ -205,7 +205,7 @@ const Inicio = () => {
             </div>
             <div class="card-footer  text-center">
               <small class="text-muted">
-              <NavLink to="/lugares">
+              <NavLink to="/Reserva-viaje">
                      <button className="btn btn-primary">Realizar reserva YA!!!!</button> 
                     </NavLink>
               </small>
@@ -230,9 +230,9 @@ const Inicio = () => {
             </div>
             <div class="card-footer text-center">
               <small class="text-muted">
-              <NavLink to="/lugares">
+              <NavLink to="/Reserva-viaje">
                      <button className="btn btn-primary">Realizar reserva YA!!!!</button> 
-                    </NavLink>
+                  </NavLink>
               </small>
             </div>
           </div>
