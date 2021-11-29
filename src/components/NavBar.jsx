@@ -27,7 +27,7 @@ const NavBar = () =>{
             </NavLink>
         </li>
         <li className="nav-item">
-          <NavLink className="nav-link text-white" to="/Reserva-Viaje">
+          <NavLink className="nav-link text-white" to="/ver-Reservación">
           <img src="https://img.icons8.com/plasticine/50/000000/view.png" />
             Ver Reserva
             </NavLink>

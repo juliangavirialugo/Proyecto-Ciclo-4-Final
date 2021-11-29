@@ -6,8 +6,13 @@
 
 
 }
-.cursive{
+
+.cursive {
     @import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
     font-family: 'Lobster', cursive;
     font-size: 3rem;
+}
+
+.html {
+    background-color: aqua;
 }
