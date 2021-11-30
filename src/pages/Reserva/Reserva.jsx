@@ -33,8 +33,8 @@ const ReservaViaje = () =>{
       personas: input.personas,
       dias:input.dias,
     }
-
-    axios.post("http://localhost:5000/api/formulario/", newFormulario)
+    axios.post("http://localhost:8000/formulario", newFormulario)
+  
   }
 
     return (
